@@ -1,0 +1,16 @@
+{
+  "name": "hyper-a-grim-parody-of-a-video-game",
+  "version": "0.0.1",
+  "description": "A grim parody of a video game theme for hyper",
+  "license": "MIT",
+  "repository": "gnandretta/hyper-a-grim-parody-of-a-video-game",
+  "author": "Gabriel Andretta",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "tufte"
+  ]
+}
